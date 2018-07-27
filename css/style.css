@@ -19,12 +19,12 @@ body, html {
   margin: 10px auto;
 }
 
-h4 {
+/*h4 {
   width: fit-content;
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
-}
+}*/
 
 .amiable {
   border: 1px solid #22aa44;
@@ -33,6 +33,10 @@ h4 {
 }
 
 .amiable h4 {
+    width: fit-content;
+    display: inline-block;
+    padding: 5px;
+    margin: 20px 0 0 0;
     background: linear-gradient(to right, #FFF, #000)
 }
 
